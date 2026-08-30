@@ -35,6 +35,5 @@ Deployment: Vercel / Docker (optional)
 
 ---
 
-Youtube Demo Link:
-https://youtu.be/M29_gikeZys
+
 
